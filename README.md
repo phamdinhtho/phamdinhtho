@@ -1,80 +1,78 @@
-## Hi there, I'm [Dinh Tho](https://www.facebook.com/dinhtho0110)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+<h1 align="center">Hi, I'm Dinh Tho 👋</h1>
 
-<p>
-  <em>
-    A <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Quy Nhon, Gia Lai, Viet Nam.
-  </em>
- </p>
+<p align="center">
+  <em>Senior Software Engineer · Self-taught Programmer · Quy Nhon, Gia Lai, Vietnam</em>
+</p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<p align="center">
+  <a href="https://www.facebook.com/dinhtho0110">Facebook</a> ·
+  <a href="mailto:phamdinhtho.0105@gmail.com">Email</a> ·
+  <a href="https://github.com/phamdinhtho">GitHub</a>
+</p>
 
-<em> Want to know more about me? [Click here](https://www.facebook.com/dinhtho0110) </em>
-<em>
+---
 
-**Talking about Personal Stuffs:**
+### About Me
 
-- 👨🏽‍💻 I’m a Senior Software Engineer <!--at [TMA](https://www.tma.vn/);-->
-- 💼 I’ve completed my Bachelor's degree in Information Technology at [QNU](https://www.qnu.edu.vn/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Space 🚀, etc..;
-- 🎬 I like to watch movies, listen to music and work;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via Phamdinhtho.0105@gmail.com or ping me on [FaceBook](https://www.facebook.com/dinhtho0110) to reach me;
-  <br/>
-  </em>
+- 👨‍💻 Senior Software Engineer, building web applications end to end
+- 🎓 Bachelor's degree in Information Technology from [Quy Nhon University](https://www.qnu.edu.vn/)
+- 🤔 Interested in Web App Development, Data Science, and Space
+- 💬 Always happy to talk shop — feel free to reach out with questions
+- 📫 Reach me at [phamdinhtho.0105@gmail.com](mailto:phamdinhtho.0105@gmail.com) or on [Facebook](https://www.facebook.com/dinhtho0110)
 
-### Worked with
+### Tech Stack
 
-<code><img height="40" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo-thumbnail.png" title="C"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="Php"></code> <code><img height="40" src="https://pbs.twimg.com/media/EUXTLf8XYAEjUgi.png" title="C#"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React"></code> <code><img height="40" src="https://blog.logrocket.com/wp-content/uploads/2022/06/what-you-need-to-know-new-next-js-router.png" title="NextJs"></code> <code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="Spring-boot"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js"></code> <code><img height="40" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo-700x394.png" title=".Net Framework"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="Mongodb"></code> <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" title="Sql Server"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql"></code> <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-B-ri1dlCKnw96h6gXWcCPlwBv2ny5pTcA&usqp=CAU" title="PostgreSql"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code> <code><img height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/trello_icon_130813.png" title="Trello"></code>
-<!--
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel"></code>
+**Languages**
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
+**Frontend**
 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain.svg" title="protractor"></code>
+**Backend**
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="angular"></code>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
+**Databases**
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
+**Tools**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="aws-rds"></code>
-
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
-
-<code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="serverless"></code>
--->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### GitHub Stats
 
 <p align="center">
-  <a href = "https://github.com/phamdinhtho">
-<img src="https://github-readme-stats.vercel.app/api?username=phamdinhtho&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  <a href="https://github.com/phamdinhtho">
+    <img src="https://github-readme-stats.vercel.app/api?username=phamdinhtho&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Dinh Tho's GitHub stats" />
   </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/phamdinhtho">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdinhtho&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
 </p>
 
-### Follow Me
+<p align="center">
+  <a href="https://github.com/phamdinhtho">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdinhtho&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top languages" />
+  </a>
+</p>
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/kishan0725/)
-[![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishan0725)](https://twitter.com/kishan0725)
-[![StackOverflow Badge](https://img.shields.io/badge/-kishan--lal-f48225?style=flat-circle&labelColor=f48225&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10150468/kishan-lal)](https://stackoverflow.com/users/10150468/kishan-lal)
-[![YouTube Badge](https://img.shields.io/badge/-Kishan%20Lal-f00?style=flat-circle&labelColor=f00&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCbJ1G7ueeRGSFj0dNVYDNAg)](https://www.youtube.com/channel/UCbJ1G7ueeRGSFj0dNVYDNAg)
-[![Quora Badge](https://img.shields.io/badge/-@Kishan--175-b92b27?style=flat-circle&labelColor=b92b27&logo=quora&logoColor=white&link=https://www.quora.com/profile/Kishan-175)](https://www.quora.com/profile/Kishan-175)-->
-[![Instagram Badge](https://img.shields.io/badge/-@dinhtho0110-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/dinhtho0110)](https://www.instagram.com/dinhtho0110) [![GitHub Badge](https://img.shields.io/badge/-@phamdinhtho-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/phamdinhtho) [![Gmail Badge](https://img.shields.io/badge/-@phamdinhtho.0105-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:phamdinhtho.0105@gmail.com)](mailto:phamdinhtho.0105@gmail.com) [![FaceBook Badge](https://img.shields.io/badge/-Pham%20Dinh%20Tho-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/dinhtho0110)](https://www.facebook.com/dinhtho0110)
+### Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phamdinhtho)
+[![Gmail](https://img.shields.io/badge/Gmail-d54b3d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinhtho.0105@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1ca0f1?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dinhtho0110)
+[![Instagram](https://img.shields.io/badge/Instagram-e02c73?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinhtho0110)
