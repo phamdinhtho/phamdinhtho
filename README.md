@@ -37,6 +37,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -60,13 +65,13 @@
 
 <p align="center">
   <a href="https://github.com/phamdinhtho">
-    <img src="https://github-readme-stats.vercel.app/api?username=phamdinhtho&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Dinh Tho's GitHub stats" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fphamdinhtho&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=24292e" alt="Public Repos" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/phamdinhtho">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamdinhtho&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top languages" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fphamdinhtho&query=%24.followers&label=Followers&style=for-the-badge&logo=github&color=24292e" alt="Followers" />
+  </a>
+  <a href="https://github.com/phamdinhtho">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fphamdinhtho&query=%24.following&label=Following&style=for-the-badge&logo=github&color=24292e" alt="Following" />
   </a>
 </p>
 
